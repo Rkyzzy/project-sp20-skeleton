@@ -1,5 +1,10 @@
 # CS 170 Project Spring 2020
 
+
+python solver.py to run the code
+(there are two solver method, if the latter one won't work, try the former one and commented out the latter one)
+the output is not up to date, will upload later
+
 Take a look at the project spec before you get started!
 
 Requirements:
