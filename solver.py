@@ -82,7 +82,7 @@ def solve(G):
                 a = nx.astar_path(G, j, k)
                 for i in range(len(a)-1):
                     graph3.add_weighted_edges_from([(a[i],a[i+1], G[a[i]][a[i+1]]['weight'])])
-			k += 1
+            k += 1
     return graph3
 
     #return pruning(graph3)
